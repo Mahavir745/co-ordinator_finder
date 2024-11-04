@@ -215,7 +215,7 @@ button{
 
     .child{
       width: 480px;
-      height: 60vh;
+      height: 90vh;
       flex-direction: column;
     }
 
@@ -223,6 +223,7 @@ button{
       div{
         width: 300px;
         height: 160px;
+        margin-bottom: 20px;
       }
     }
     .child2{
